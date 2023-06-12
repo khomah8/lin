@@ -6,5 +6,5 @@
 - 	[How to Use tmux on Linux (and Why It’s Better Than Screen)](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/)  { tmux vs. screen }
 - 	[Time Zone Database](https://www.iana.org/time-zones) (IANA) 
 - 	[Linux Command Line Books by William Shotts](http://linuxcommand.org/tlcl.php) 
-- 	[JSON Comment Example — How to Comment in JSON Files](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/) 
+- 	[JSON Comment Example — How to Comment in JSON Files](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/) (freeCodeCamp)
 - 	
