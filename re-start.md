@@ -4,8 +4,8 @@
 - 	[Vim Reference Guide](https://learnbyexample.github.io/vim_reference/cover.html) 
 - 	[ NVMe или M.2 или SATA в чем разница при выборе SSD ](https://www.how-fixit.in.ua/uk-ua/stati/nvme-m2-sata-ssd.html)
 - 	[How to Use tmux on Linux (and Why It’s Better Than Screen)](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/)  { tmux vs. screen }
-- 	[Time Zone Database](https://www.iana.org/time-zones) (IANA) 
+- 	[Time Zone Database](https://www.iana.org/time-zones) IANA 
 - 	[Linux Command Line Books by William Shotts](http://linuxcommand.org/tlcl.php) 
-- 	[JSON Comment Example — How to Comment in JSON Files](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/) (freeCodeCamp)
+- 	[JSON Comment Example — How to Comment in JSON Files](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/) freeCodeCamp
 - 	[How to Use Linux’s screen Command](https://www.howtogeek.com/662422/how-to-use-linuxs-screen-command/) how2geek 
 - 	
