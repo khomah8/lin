@@ -8,5 +8,6 @@
 - 	[Linux Command Line Books by William Shotts](http://linuxcommand.org/tlcl.php) 
 - 	[JSON Comment Example — How to Comment in JSON Files](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/) freeCodeCamp
 - 	[How to Use Linux’s screen Command](https://www.howtogeek.com/662422/how-to-use-linuxs-screen-command/) how2geek 
-- 	[The Kate Handbook](https://docs.kde.org/stable5/en/kate/kate//)
+- 	[The Kate Handbook](https://docs.kde.org/stable5/en/kate/kate//) docs
+- 	[Tilde Expansion (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html)
 - 	
