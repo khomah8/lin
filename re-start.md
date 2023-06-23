@@ -10,4 +10,5 @@
 - 	[How to Use Linux’s screen Command](https://www.howtogeek.com/662422/how-to-use-linuxs-screen-command/) how2geek 
 - 	[The Kate Handbook](https://docs.kde.org/stable5/en/kate/kate//) docs
 - 	[Tilde Expansion (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html)
+- 	[https://zapier.com/university-101] and more deep [https://zapier.com/resources/guides/apis/]
 - 	
