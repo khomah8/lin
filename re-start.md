@@ -11,4 +11,5 @@
 - 	[The Kate Handbook](https://docs.kde.org/stable5/en/kate/kate//) docs
 - 	[Tilde Expansion (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html)
 - 	[https://zapier.com/university-101] and more deep [https://zapier.com/resources/guides/apis/]
+- 	[SQL Interview Questions | DataLemur](https://datalemur.com/sql-interview-questions)
 - 	
