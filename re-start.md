@@ -12,4 +12,5 @@
 - 	[Tilde Expansion (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html)
 - 	[https://zapier.com/university-101] and more deep [https://zapier.com/resources/guides/apis/]
 - 	[SQL Interview Questions](https://datalemur.com/sql-interview-questions) DataLemur
+- 	[Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 - 	
