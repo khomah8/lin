@@ -13,4 +13,6 @@
 - 	[https://zapier.com/university-101] and more deep [https://zapier.com/resources/guides/apis/]
 - 	[SQL Interview Questions](https://datalemur.com/sql-interview-questions) DataLemur
 - 	[Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- 	https://en.wikipedia.org/wiki/ONTAP  ONTAP or Clustered Data ONTAP (cDOT) or Data ONTAP 7-Mode is NetApp's proprietary operating system used in storage disk arrays.
+ONTAP originally only supported **NFS**, but later added support for **SMB, iSCSI, and Fibre Channel Protocol** (including Fibre Channel over Ethernet and FC-NVMe).
 - 	
