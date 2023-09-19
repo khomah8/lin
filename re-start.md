@@ -16,4 +16,5 @@
 - 	https://en.wikipedia.org/wiki/ONTAP  ONTAP or Clustered Data ONTAP (cDOT) or Data ONTAP 7-Mode is NetApp's proprietary operating system used in storage disk arrays.
 ONTAP originally only supported **NFS**, but later added support for **SMB, iSCSI, and Fibre Channel Protocol** (including Fibre Channel over Ethernet and FC-NVMe) -- supported by AWS, GCP 
 - 	🍂 📆 [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
+- 	[How to Run “patch” Command in Linux?](https://linuxhint.com/run-patch-command-in-linux/)
 - 	
