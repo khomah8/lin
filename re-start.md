@@ -18,4 +18,6 @@ ONTAP originally only supported **NFS**, but later added support for **SMB, iSCS
 - 	🍂 📆 [Furthering the evolution of CentOS Stream](https://www.redhat.com/en/blog/furthering-evolution-centos-stream)
 - 	[How to Run “patch” Command in Linux?](https://linuxhint.com/run-patch-command-in-linux/)
 - 	[ Monitoring Analyzing ](https://docs.victoriametrics.com/Quick-Start.html)
-- 	[Cloud Foundry BOSH](https://bosh.io/docs/) 
+- 	[Cloud Foundry BOSH](https://bosh.io/docs/)
+- 	RedHat [Red Hat OpenShift enterprise Kubernetes container platform](https://www.redhat.com/en/technologies/cloud-computing/openshift) as Enterprise level solution
+- 	
