@@ -19,5 +19,8 @@ ONTAP originally only supported **NFS**, but later added support for **SMB, iSCS
 - 	[How to Run “patch” Command in Linux?](https://linuxhint.com/run-patch-command-in-linux/)
 - 	[ Monitoring Analyzing ](https://docs.victoriametrics.com/Quick-Start.html)
 - 	[Cloud Foundry BOSH](https://bosh.io/docs/)
-- 	RedHat [Red Hat OpenShift enterprise Kubernetes container platform](https://www.redhat.com/en/technologies/cloud-computing/openshift) as Enterprise level solution
-- 	
+- 	🩰 RedHat [Red Hat OpenShift enterprise Kubernetes container platform](https://www.redhat.com/en/technologies/cloud-computing/openshift) as Enterprise level solution
+
+## use-cases 
+- 	[iberianpig/fusuma: Multitouch gestures with libinput driver on Linux](https://github.com/iberianpig/fusuma)
+- 
