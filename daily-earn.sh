@@ -31,4 +31,7 @@ Device 'intel_backlight' of class 'backlight':
 $ sudo brightnessctl  g
 298 
 
-## 
+## less --forced_opening_binzry_file , --Numbering_lines;  
+$ less  -f <not_so_text_file>  
+$ less  -N <long_file_right_side_lines_numbered>  
+
